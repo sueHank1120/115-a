@@ -58,4 +58,5 @@
 s = "Python syntax highlighting"
 print(s)
 
+```
 ![image]
