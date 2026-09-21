@@ -59,4 +59,4 @@ s = "Python syntax highlighting"
 print(s)
 
 ```
-![image]
+![國立高雄科技大學](logo.png)
